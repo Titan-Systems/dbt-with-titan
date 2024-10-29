@@ -1,2 +1,6 @@
-databases:
-  - name: dbt_with_titan
+scope: database
+database: analytics
+
+schemas:
+  - name: models
+    owner: transformer
