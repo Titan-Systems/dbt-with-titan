@@ -1,0 +1,2 @@
+databases:
+  - name: dbt_with_titan
